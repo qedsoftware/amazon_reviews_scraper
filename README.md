@@ -10,7 +10,7 @@ INSTALLATION
 2. pip install -r requirements.txt
 3. Register for Amazon's Product Advertising API:
 
-    https://affiliate-program.amazon.com/gp/flex/advertising/api/sign-in.html.'
+    https://affiliate-program.amazon.com/gp/flex/advertising/api/sign-in.html
 
 4. cp amazon.ini.example amazon.ini
 5. Modify amazon.ini such that it uses the access keys you obtained after registration in step 2. 
