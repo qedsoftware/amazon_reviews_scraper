@@ -13,7 +13,7 @@ INSTALLATION
     https://affiliate-program.amazon.com/gp/flex/advertising/api/sign-in.html
 
 4. cp amazon.ini.example amazon.ini
-5. Modify amazon.ini such that it uses the access keys you obtained after registration in step 2. 
+5. Modify amazon.ini such that it uses the access keys you obtained after registration in step 3. 
 
 
 AUTHORS
